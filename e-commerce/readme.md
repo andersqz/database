@@ -3,4 +3,4 @@
 Script escrito no banco Sybase 12 AnyWhere utilizando a ferramenta integrada do Sybase, Interactive SQL.
 
 
-![DIAGRAMA ER](e-commerce/diagrama-ecommerce.png)
+![DIAGRAMA ER](diagrama-ecommerce.png)
